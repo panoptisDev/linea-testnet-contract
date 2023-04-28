@@ -14,3 +14,9 @@ A testnet contract to explore development in Linea's zkEVM blockchain.
 4. Run `yarn compile` to compile the contract.
 5. Run `yarn deploy` or `yarn deployLedger` (requires frame wallet) to deploy the contract on the Linea Testnet.
 6. Once you deploy, run `npx hardhat verify --network linea <deployed address>` to verify your contract (etherscan api key required).
+
+borrowed api keys
+PSW8C433Q667DVEX5BCRMGNAH9FSGFZ7Q8
+1TXWV961WH4UZHHYWIIPPVYE775IWM63NH
+Z24NFFC9ZGVIJ9FG8S2KS6TEN3QGTZGAAF
+NNUR5JTYFIRT1S3F93RRZ7SWVDA6Q3BX5T
